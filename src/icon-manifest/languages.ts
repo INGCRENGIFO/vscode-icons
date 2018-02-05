@@ -1,6 +1,7 @@
 import { ILanguageCollection } from '../models';
 
 export const languages: ILanguageCollection = {
+  4gl: {ids: '4GL', defaultExtension: '4gl' },
   actionscript: { ids: 'nextgenas', defaultExtension: 'as' },
   al: { ids: 'al', defaultExtension: 'al' },
   ansible: { ids: 'ansible', defaultExtension: 'ansible' },
